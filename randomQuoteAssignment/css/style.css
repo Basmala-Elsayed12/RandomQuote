@@ -1,0 +1,30 @@
+body{
+    background-color: #f8d9ef;
+ 
+}
+
+h1{
+    font-size: 80px;
+        font-family: Impact;
+        font-weight: 800;
+    
+}
+
+p{
+    font-size: 35px;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: rgb(238, 31, 193);
+    color: white;
+    border: none;
+    transition: 0.4s;
+}
+button:hover {
+    
+    
+    background-color: rgb(74, 3, 59);
+    color: white;
+
+}
